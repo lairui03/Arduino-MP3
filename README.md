@@ -3,7 +3,7 @@
 MP3 hecho en C++ 
 
 
-```
+```c++
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <IRremote.h>
